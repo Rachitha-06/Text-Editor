@@ -1,0 +1,9 @@
+Welcome to LineForge!
+This is a sample text file.
+
+It contains multiple lines.
+You can open it with the text editor,
+edit it, search for words, replace text,
+and use undo/redo.
+
+Happy editing!
